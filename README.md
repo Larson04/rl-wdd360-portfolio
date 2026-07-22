@@ -1,6 +1,10 @@
 # WDD 360 Final Portfolio
 All of my work from this semester organized for the final submission.
 
+### Grade Claim Video Link
+
+* [Final Grade Claim Video Link](https://youtu.be/JBPR1sV62NY)
+
 ### Individual Repository for Non-Team Work
 
 * [wdd360-repository](https://github.com/Larson04/wdd360-repository)
