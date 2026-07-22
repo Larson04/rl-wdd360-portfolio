@@ -13,6 +13,7 @@ All of my work from this semester organized for the final submission.
 
 ### Final Project: Rate My Class Repositories
 
+* [Rate My Class Live Site](https://rate-myclass.netlify.app/)
 * [Rate My Class Client Repository](https://github.com/21sarchibald/rate-my-class-client)
 * [Rate My Class Server Repository](https://github.com/21sarchibald/rate-my-class-server)
 
